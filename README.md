@@ -78,7 +78,10 @@ FLIP-FLOP/
 
 ## 📸 Demo
 
-> *Run the app locally using the steps above to see it in action!*
+https://github.com/user-attachments/assets/0e9f8cfb-fbfc-4c18-ae86-d8591ff41687
+
+
+
 
 ---
 
